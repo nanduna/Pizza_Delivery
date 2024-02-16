@@ -10,7 +10,7 @@ const pizzas =[
       },
     ],
     category: "nonveg",
-    image: "",
+    image: "https://adminsc.pizzahut.lk//images/mainmenu/d28d92e9-cada-465d-808f-dd6afe42842f.jpg",
     descripthin: "pepper",
   },
 
@@ -25,7 +25,7 @@ const pizzas =[
       },
     ],
     category: "nonveg",
-    image: "",
+    image: "https://adminsc.pizzahut.lk//images/mainmenu/d28d92e9-cada-465d-808f-dd6afe42842f.jpg",
     descripthin: "pepper",
   },
 
@@ -40,7 +40,7 @@ const pizzas =[
       },
     ],
     category: "nonveg",
-    image: "",
+    image: "https://adminsc.pizzahut.lk//images/mainmenu/d28d92e9-cada-465d-808f-dd6afe42842f.jpg",
     descripthin: "pepper",
   },
 
@@ -55,7 +55,7 @@ const pizzas =[
       },
     ],
     category: "nonveg",
-    image: "",
+    image: "https://adminsc.pizzahut.lk//images/mainmenu/d28d92e9-cada-465d-808f-dd6afe42842f.jpg",
     descripthin: "pepper",
   },
 
@@ -70,7 +70,7 @@ const pizzas =[
       },
     ],
     category: "nonveg",
-    image: "",
+    image: "https://adminsc.pizzahut.lk//images/mainmenu/d28d92e9-cada-465d-808f-dd6afe42842f.jpg",
     descripthin: "pepper",
   },
 
@@ -85,7 +85,7 @@ const pizzas =[
       },
     ],
     category: "nonveg",
-    image: "",
+    image: "https://adminsc.pizzahut.lk//images/mainmenu/d28d92e9-cada-465d-808f-dd6afe42842f.jpg",
     descripthin: "pepper",
   }
 
